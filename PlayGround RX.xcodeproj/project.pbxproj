@@ -13,6 +13,8 @@
 		1E3BFD151FA65CB60080A912 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E3BFD141FA65CB60080A912 /* Assets.xcassets */; };
 		1E3BFD181FA65CB60080A912 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E3BFD161FA65CB60080A912 /* LaunchScreen.storyboard */; };
 		1E3BFD231FA65CB70080A912 /* PlayGround_RXTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E3BFD221FA65CB70080A912 /* PlayGround_RXTests.swift */; };
+		6C3806E7F5F7789CA2E9C3EA /* Pods_PlayGround_RX.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 827125208DD2BFBEE7FBEDCF /* Pods_PlayGround_RX.framework */; };
+		9EF860E91B4DC0D69E28F2F7 /* Pods_PlayGround_RXTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FD7E75F06BDF27DB068FD3D /* Pods_PlayGround_RXTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,20 @@
 		1E3BFD1E1FA65CB70080A912 /* PlayGround RXTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "PlayGround RXTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E3BFD221FA65CB70080A912 /* PlayGround_RXTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayGround_RXTests.swift; sourceTree = "<group>"; };
 		1E3BFD241FA65CB70080A912 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E728F9A1FAD0B0B0057A1EA /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1E86F3911FAC12D700A4604B /* 008.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 008.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1E86F3921FAC12E900A4604B /* 009.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 009.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1E86F3931FAC130E00A4604B /* 010.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 010.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1E86F3941FAC131D00A4604B /* 011.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 011.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1E86F3951FAC132D00A4604B /* 012.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 012.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1E86F3961FAC133A00A4604B /* 013.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 013.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1E86F3971FAC137300A4604B /* 007.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 007.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1FD7E75F06BDF27DB068FD3D /* Pods_PlayGround_RXTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PlayGround_RXTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3202085B6058F51D8123ED50 /* Pods-PlayGround RX.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PlayGround RX.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PlayGround RX/Pods-PlayGround RX.debug.xcconfig"; sourceTree = "<group>"; };
+		45C43BEFF3D2468789C9BA8E /* Pods-PlayGround RXTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PlayGround RXTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PlayGround RXTests/Pods-PlayGround RXTests.release.xcconfig"; sourceTree = "<group>"; };
+		7723759E1DBB32DE6DEBBCD6 /* Pods-PlayGround RX.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PlayGround RX.release.xcconfig"; path = "Pods/Target Support Files/Pods-PlayGround RX/Pods-PlayGround RX.release.xcconfig"; sourceTree = "<group>"; };
+		827125208DD2BFBEE7FBEDCF /* Pods_PlayGround_RX.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PlayGround_RX.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA54FAF0FDFD005BC1E6ECA6 /* Pods-PlayGround RXTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PlayGround RXTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PlayGround RXTests/Pods-PlayGround RXTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C3806E7F5F7789CA2E9C3EA /* Pods_PlayGround_RX.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -50,18 +67,40 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EF860E91B4DC0D69E28F2F7 /* Pods_PlayGround_RXTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		054DD8E30660A27655A858E7 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3202085B6058F51D8123ED50 /* Pods-PlayGround RX.debug.xcconfig */,
+				7723759E1DBB32DE6DEBBCD6 /* Pods-PlayGround RX.release.xcconfig */,
+				DA54FAF0FDFD005BC1E6ECA6 /* Pods-PlayGround RXTests.debug.xcconfig */,
+				45C43BEFF3D2468789C9BA8E /* Pods-PlayGround RXTests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		1E3BFD011FA65CB60080A912 = {
 			isa = PBXGroup;
 			children = (
+				1E728F9A1FAD0B0B0057A1EA /* MyPlayground.playground */,
+				1E86F3971FAC137300A4604B /* 007.playground */,
+				1E86F3911FAC12D700A4604B /* 008.playground */,
+				1E86F3921FAC12E900A4604B /* 009.playground */,
+				1E86F3931FAC130E00A4604B /* 010.playground */,
+				1E86F3941FAC131D00A4604B /* 011.playground */,
+				1E86F3951FAC132D00A4604B /* 012.playground */,
+				1E86F3961FAC133A00A4604B /* 013.playground */,
 				1E3BFD0C1FA65CB60080A912 /* PlayGround RX */,
 				1E3BFD211FA65CB70080A912 /* PlayGround RXTests */,
 				1E3BFD0B1FA65CB60080A912 /* Products */,
+				054DD8E30660A27655A858E7 /* Pods */,
+				E74D680FA47A6F0D8CAF6BDD /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -96,6 +135,15 @@
 			path = "PlayGround RXTests";
 			sourceTree = "<group>";
 		};
+		E74D680FA47A6F0D8CAF6BDD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				827125208DD2BFBEE7FBEDCF /* Pods_PlayGround_RX.framework */,
+				1FD7E75F06BDF27DB068FD3D /* Pods_PlayGround_RXTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -103,9 +151,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1E3BFD271FA65CB70080A912 /* Build configuration list for PBXNativeTarget "PlayGround RX" */;
 			buildPhases = (
+				778546A0E3BBA070F2BE6802 /* [CP] Check Pods Manifest.lock */,
 				1E3BFD061FA65CB60080A912 /* Sources */,
 				1E3BFD071FA65CB60080A912 /* Frameworks */,
 				1E3BFD081FA65CB60080A912 /* Resources */,
+				54CCA706C242743A58D3136A /* [CP] Embed Pods Frameworks */,
+				7F00C72A94F3854FE1A8BF0B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -120,9 +171,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1E3BFD2A1FA65CB70080A912 /* Build configuration list for PBXNativeTarget "PlayGround RXTests" */;
 			buildPhases = (
+				C180482F787516F3A5FD41EA /* [CP] Check Pods Manifest.lock */,
 				1E3BFD1A1FA65CB70080A912 /* Sources */,
 				1E3BFD1B1FA65CB70080A912 /* Frameworks */,
 				1E3BFD1C1FA65CB70080A912 /* Resources */,
+				16D51D147BAA6292592B41E9 /* [CP] Embed Pods Frameworks */,
+				236ED00473E7F59D97E2926F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -193,6 +247,99 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		16D51D147BAA6292592B41E9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PlayGround RXTests/Pods-PlayGround RXTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		236ED00473E7F59D97E2926F /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PlayGround RXTests/Pods-PlayGround RXTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		54CCA706C242743A58D3136A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PlayGround RX/Pods-PlayGround RX-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		778546A0E3BBA070F2BE6802 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		7F00C72A94F3854FE1A8BF0B /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PlayGround RX/Pods-PlayGround RX-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C180482F787516F3A5FD41EA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		1E3BFD061FA65CB60080A912 /* Sources */ = {
@@ -351,6 +498,7 @@
 		};
 		1E3BFD281FA65CB70080A912 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3202085B6058F51D8123ED50 /* Pods-PlayGround RX.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -366,6 +514,7 @@
 		};
 		1E3BFD291FA65CB70080A912 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7723759E1DBB32DE6DEBBCD6 /* Pods-PlayGround RX.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -381,6 +530,7 @@
 		};
 		1E3BFD2B1FA65CB70080A912 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DA54FAF0FDFD005BC1E6ECA6 /* Pods-PlayGround RXTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -398,6 +548,7 @@
 		};
 		1E3BFD2C1FA65CB70080A912 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 45C43BEFF3D2468789C9BA8E /* Pods-PlayGround RXTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
